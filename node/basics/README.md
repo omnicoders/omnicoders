@@ -9,3 +9,5 @@ Learn how to set variables and reference them in your code.
 Learn the Array data structure.
 4. [objects.js](https://github.com/matthewstewart/omnicoders/blob/master/node/basics/objects.js)  
 Learn the basics of the Object data structure.
+5. [functions.js](https://github.com/matthewstewart/omnicoders/blob/master/node/basics/functions.js)  
+Learn the basic use of Functions.

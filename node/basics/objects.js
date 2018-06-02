@@ -34,13 +34,22 @@ console.log(migo);
 */
 
 // Template String
-console.log(`Name: ${migo.name}`); // output: Name: Quavo
+console.log(`\nName: ${migo.name}`); // output: Name: Quavo
 
 // Concatenate String
 console.log('Group: ' + migo.group); // output: Group: Migos
 
 // Function
-console.log(migo.description()); // output: Quavious Marshall aka Quavo, 27
+console.log('Description: ' + migo.description() + '\n'); // output: Description: Quavious Marshall aka Quavo, 27
+
+// Get the number of keys in an Object
+let migoKeysCount = Object.keys(migo).length;
+console.log(`Object Keys (${migoKeysCount}):`);
+
+// Get the keys from an Object into an Array
+let migoKeys = Object.keys(migo);
+console.log(migoKeys);
+
 
 // log a few new lines at the end to make our output easier to read
 console.log('\n');

@@ -7,14 +7,19 @@
 // log a few new lines at the beginning to make our output easier to read
 console.log('\n\n');
 
-// set a variable using var - older syntax
-// we are setting the value to a String(text) data type which requires quotes
+
+/* 
+  set a variable using var - older syntax
+  we are setting the value to a String(text) data type which requires quotes
+*/
 var migoOne = 'Offset';
 // log to console
 console.log(migoOne); // output: Offset
 
-// set a variable using let - newer syntax that indicates the value can change.
-// we can also use double quotes for a String
+/*
+  set a variable using let - newer syntax that indicates the value can change.
+  we can also use double quotes for a String
+*/
 let migoTwo = "Quavo";
 // log to console
 console.log(migoTwo); // output: Quavo
@@ -29,10 +34,12 @@ const memberCount = 3;
 // log to console
 console.log(memberCount); // output: 3
 
-// join together using a template string
-// template strings use backticks(``) instead of quotes
-// backticks are typically just to the left of your '1' key
-// Variables can be used inside of template strings when wrapped in ${}
+/*
+  join together using a template string
+  template strings use backticks(``) instead of quotes
+  backticks are typically just to the left of your '1' key
+  Variables can be used inside of template strings when wrapped in ${}
+*/
 let message = `Migos - ${memberCount} Members - ${migoOne}, ${migoTwo}, ${migoThree}`;
 // log to console
 console.log(message); // output: Migos - 3 Members - Offset, Quavo, Takeoff

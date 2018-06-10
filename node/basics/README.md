@@ -5,9 +5,11 @@ An introduction to Node JS through code examples.
 Learn how to use the JavaScript Console to see what your code is doing.
 2. [variables.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/variables.js)  
 Learn how to set variables and reference them in your code.
-3. [arrays.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/arrays.js)  
+3. [comparison.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/comparison.js)  
+Learn about how to compare values with comparison operators.
+4. [arrays.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/arrays.js)  
 Learn the Array data structure.
-4. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
+5. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
 Learn the basics of the Object data structure.
-5. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
+6. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
 Learn the basic use of Functions.

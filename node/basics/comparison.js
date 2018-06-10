@@ -35,3 +35,6 @@ console.log(firstNumber < secondNumber); // outputs: true
 
 // '>=' is less than or equal to
 console.log(secondNumber <= thirdNumber); // outputs: true
+
+
+

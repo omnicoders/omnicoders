@@ -11,9 +11,11 @@ Learn about how to compare values with comparison and relational operators.
 Learn about if...else, logic and ternary operators.
 5. [arrays.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/arrays.js)  
 Learn the Array data structure.
-6. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
+6. [iterate.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/iterate.js)  
+Learn to iterate over each item in an Array.
+7. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
 Learn the basics of the Object data structure.
-7. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
+8. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
 Learn the basic use of Synchronous Functions.
-8. [callbacks.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/callbacks.js)  
+9. [callbacks.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/callbacks.js)  
 Learn the basic use of Asynchronous Functions.

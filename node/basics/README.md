@@ -21,3 +21,5 @@ Learn the basic use of Synchronous Functions.
 Learn the basic use of Asynchronous Functions.
 10. [promises.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/promises.js)  
 Learn how to use promise chains instead of nested callbacks.
+11. [async.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/async.js)  
+Learn how to use the async/await pattern.

@@ -19,3 +19,5 @@ Learn the basics of the Object data structure.
 Learn the basic use of Synchronous Functions.
 9. [callbacks.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/callbacks.js)  
 Learn the basic use of Asynchronous Functions.
+10. [promises.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/promises.js)  
+Learn how to use promise chains instead of nested callbacks.

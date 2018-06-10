@@ -7,9 +7,11 @@ Learn how to use the JavaScript Console to see what your code is doing.
 Learn how to set variables and reference them in your code.
 3. [comparison.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/comparison.js)  
 Learn about how to compare values with comparison and relational operators.
-4. [arrays.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/arrays.js)  
+4. [conditionals.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/conditionals.js)  
+Learn about if...else, logic and ternary operators.
+5. [arrays.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/arrays.js)  
 Learn the Array data structure.
-5. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
+6. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
 Learn the basics of the Object data structure.
-6. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
+7. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
 Learn the basic use of Functions.

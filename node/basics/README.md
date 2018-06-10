@@ -14,4 +14,6 @@ Learn the Array data structure.
 6. [objects.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/objects.js)  
 Learn the basics of the Object data structure.
 7. [functions.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/functions.js)  
-Learn the basic use of Functions.
+Learn the basic use of Synchronous Functions.
+8. [callbacks.js](https://github.com/omnicoders/omnicoders/blob/master/node/basics/callbacks.js)  
+Learn the basic use of Asynchronous Functions.

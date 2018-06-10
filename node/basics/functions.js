@@ -7,21 +7,22 @@
 // functions can be assigned to a variable but the variable 
 // must be defined before reference
 let nl = function() {
-	// we want to avoid using console.log
-	// instead we will use process.stdout.write() which 
-	// writes to our console without a new line by default
 	return process.stdout.write('\n');
 }
+
+// the ES6 way...
+// 'function' is removed and the '=>' is added
+let nlesSix = () => { return process.stdout.write('\n') }
 
 // functions using the function declaration can be 
 // called in the code before they are defined
 log('Hello World!');
-nl()
-nl()
 
 // our own console.log()
 function log(message) {
 	nl()
-	process.stdout.write(`${message}`)
+	process.stdout.write(`${message}`);
+	nlesSix()
+	nl()	
 };
 

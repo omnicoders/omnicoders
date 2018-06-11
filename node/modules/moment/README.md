@@ -1,5 +1,6 @@
 # Moment
-Time & Date parsing.
+Time & Date parsing.  
+See the full [documentation](http://momentjs.com/docs/) or the [npm documentation](https://www.npmjs.com/package/moment).
 
 ## Install
 ```
